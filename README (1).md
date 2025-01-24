@@ -1,14 +1,7 @@
 
 
 ## Database Design: A Flower Shop Project
-### (Via MySQL WorkBench)
 
-Please use the Dump files to load in the database.  
-
-This is a team project that design a database for a local flower store to optimize the business operation. The process involve data entry, ETL and applying queries as demanded. 
-I included 12 SQL queries used in this database ( including lag, lead, stored procedure, nested queries, ...) in a .sql file, the ER diagram with FK and PK in a PDF file, the data we input mannualy and the dump file used to construct the database model in Workbench.
-
---- 
 
 ### Milestone 1:
 1. Develope a conceptual model that have over 16 entities and a number of attributes, ensure the Intergrity Constrains( PK, FK, Uniqueness).  
